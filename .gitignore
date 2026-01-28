@@ -1,0 +1,26 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+bin/
+obj/
+
+# Python (Arquivos temporários e compilação)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Banco de Dados Local (Opcional - veja nota abaixo)
+
+*.sqlite3
+
+# Streamlit e IDEs
+.streamlit/
+.vscode/
+.idea/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
